@@ -1,4 +1,4 @@
-"nn77"
+"mmh"
 {
 	"base"		"nutscript"
 	"title"		"Modular Modern Horror Schema"
