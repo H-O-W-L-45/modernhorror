@@ -1,0 +1,7 @@
+"nn77"
+{
+	"base"		"nutscript"
+	"title"		"Modular Modern Horror Schema"
+	"author"	"Howl"
+	"menusystem" "1"
+}
