@@ -1,8 +1,10 @@
 # modernhorror
 Modern horror roleplaying in Nutscript.
 
-A cool schema made by Howl on the bones of Adaster's old Atomic schema for the purposes of playing horror scenarios
-in pretty much any setting post-Victorian. I've used it for private tabletop RPG style campaigns since 2020. 
+A cool skeleton schema made by Howl on the bones of Adaster's old Atomic schema for the purposes of playing horror-ish or otherwise dark scenarios in pretty much any setting post-Victorian. I've used it for private tabletop RPG style campaigns since 2020. You could feasibly refit it into anything, but it's intended for story-focused content that has dark themes and maybe horrible shit going down.
+
+To use this, download the repo as a zip then dump the "modern" folder in your gmod gamemodes folder. Make sure you get the latest version of Nutscript first! It will not run on any version below 1.1-Beta and was built for 1.2 (with parts being 1.1-B era don't sue me)
+https://github.com/NutScript/NutScript
 
 I've had it work for stuff set in 1899 as well as stuff set in the far future of the 2500s, and even done stuff in a collapsing abstract world somewhere between 1999 and 2010. It'll work for basically anything if you want to put the work in to fill out the lore.
 
