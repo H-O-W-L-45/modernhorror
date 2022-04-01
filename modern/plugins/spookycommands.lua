@@ -249,7 +249,7 @@ if (CLIENT) then
 			local rag_pos = tr.HitPos + tr.HitNormal * 32 - Vector(0, 0, 100)
 
 			if not halluc then
-				halluc = CreateModel("models/curator_trenchcoat_nohat.mdl")
+				halluc = CreateModel("models/humans/group01/male_cheaple.mdl")
 				halluc:SetModelScale(1, 0)
 				halluc:SetAngles(ang + Angle(0, 180, 0))
 				halluc:SetColor(Color(0,0,0))
@@ -431,7 +431,7 @@ if (CLIENT) then
 				local rag_pos = tr.HitPos + tr.HitNormal * 32 - Vector(0, 0, 100)
 
 				if not halluc then
-					halluc = CreateModel("models/player/duckseason/dog.mdl")
+					halluc = CreateModel("models/humans/group01/male_cheaple.mdl")
 					halluc:SetModelScale(1, 0)
 					halluc:SetAngles(ang + Angle(0, 180, 0))
 					halluc:SetPos(rag_pos)
@@ -592,7 +592,7 @@ if (CLIENT) then
 
 			if not halluc then
 
-				halluc = CreateModel("models/spite/doll.mdl")
+				halluc = CreateModel("models/humans/group01/male_cheaple.mdl")
 				halluc:SetModelScale(1, 0)
 				halluc:SetAngles(ang + Angle(0, 180, 0))
 				halluc:SetPos(rag_pos)
