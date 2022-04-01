@@ -1,0 +1,9 @@
+ITEM.name = "Nightvision Goggles"
+ITEM.desc = "High-intensity light goggles to be used in the dark. Utilizes hypotensive warpomatic technology to ensure only YOU can see the light! WARNING: May cause eye strain, blindness, and halitosis."
+ITEM.model = "models/props_combine/combinebutton.mdl"
+ITEM.class = "sh_nvg"
+ITEM.weaponCategory = "Equipment"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 300
+ITEM.category = "Equipment"
