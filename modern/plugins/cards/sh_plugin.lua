@@ -1,3 +1,3 @@
 PLUGIN.name = "Cigarette Cards"
-PLUGIN.author = "Adaster"
+PLUGIN.author = ""
 PLUGIN.desc = "Cool cards."
